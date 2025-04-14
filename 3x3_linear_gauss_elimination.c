@@ -16,7 +16,7 @@
  *
  *   Note:
  *    - The code assumes N is 3.
- *    - Compile using: gcc program.c -o program -lm
+ *    - Compile using: gcc 3x3_linear_gauss_elimination.c -o program -lm
  *
  */
 
