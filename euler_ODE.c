@@ -17,7 +17,7 @@
  *
  * Note:
  *   - To compile this program, a standard math library is needed, so use the -lm flag:
- *         gcc program.c -o program -lm
+ *         gcc euler_ODE.c -o program -lm
  *
  */
 
