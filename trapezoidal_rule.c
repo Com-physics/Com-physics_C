@@ -17,6 +17,8 @@
  *   Note:
  *     - Input: Number of subintervals n.
  *     - Output: Approximation of the integral (which approximates π).
+ *   Compilation:
+ *       gcc trapezoidal_rule.c -o program -lm
  */
 
 #include <stdio.h>
