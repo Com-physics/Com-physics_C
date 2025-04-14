@@ -20,7 +20,7 @@
  *     - Only real roots are computed when disc ≥ 0.
  *
  *   Compilation:
- *       gcc program.c -o program -lm
+ *       gcc quadratic_eq.c -o program -lm
  *
  */
 
